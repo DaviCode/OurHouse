@@ -11,7 +11,4 @@ package elettrodomestico;
  */
 public class Lavatrice {
     
-    public static void main ()
-    {
-    }
 }
